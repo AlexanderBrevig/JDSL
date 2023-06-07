@@ -6,6 +6,8 @@ This is supposed to be an entry to [ThePrimeagen/ts-rust-zig-deez](https://githu
 
 Jaydeezelified version of https://github.com/ThePrimeagen/ts-rust-zig-deez/tree/master/javascript.
 
+Since we should strive, of course, to being able to describe the entire program in the JSON only. I took the liberty to do the only sensible thing: Never pass arguments, always set global variables. I feel confident this is the way Tom would've wanted it. This way, default arguments are easily changed by simply commiting a new version of the definition, and then linking to it in the JSON. Makes sense right?
+
 ## Run
 
 ```sh
