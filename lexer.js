@@ -1,1 +1,4 @@
-export const Lexer_tokenSet = new Set(Object.values(Lexer_tokens));
+export const Lexer_keywords = {
+  fn: Lexer_tokens.FUNCTION,
+  let: Lexer_tokens.LET,
+};
