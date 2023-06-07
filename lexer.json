@@ -1,0 +1,18 @@
+{
+  "Lexer_tokens": "303512ed9c749e38ecdd123bd6a9fa425154c037",
+  "Lexer_tokenSet": "fbf5566be970b29b4b4282527872c16f649bc6b8",
+  "Lexer_keywords": "a11d5a1a55f1d84a991dabff4d1dc332781b429f",
+  "Lexer_this_input": "ebb5354b2eddebf21be14ba22cd8f45220fc4775",
+  "Lexer_this_ch": "0888fe3bee221a9083cf98e6433f956c52e11343",
+  "Lexer_this_position": "fc15dbbf7b2f2dd54a4db961b19778a8c4f67aad",
+  "Lexer_constructor": "6a3cedfd691b5644c120faff5a5a7e4fa3b50559",
+  "Lexer_nextToken": "3f64f76fed9172200543872843aff26c8ef9f64a",
+  "Lexer_readChar": "ec5d7d0fbbd221898128f3dccf562905ed03a290",
+  "Lexer_skipWhitespace": "302ff56dc101f15d93a512b158d704ae8de1d737",
+  "Lexer_readIdent": "eae7045a9430c1ff3d437b55e8b40164539cb627",
+  "Lexer_readInt": "63256c50f8323448cebf3d950bbb204ea9ec00e0",
+  "Lexer_isAlpha": "0b7467d6ddfec9288e4ee1af9c0fb05a676f4243",
+  "Lexer_isNumeric": "054b86955e3f91bc595a9c0db995128767ec891a",
+  "Lexer_lookupIdent_ident": "b4596ba047317bf35824b70c8863799671c73603",
+  "Lexer_lookupIdent": "1c54a6f4e08f34870c1458b123a560ccab6aba86"
+}

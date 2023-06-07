@@ -1,0 +1,19 @@
+{
+  "name": "jdsl",
+  "version": "1.0.0",
+  "description": "JDSL; Tom's marvel",
+  "keywords": [
+    "parser",
+    "dsl",
+    "jdsl",
+    "lexer",
+    "tokenizer"
+  ],
+  "main": "jdsl.js",
+  "scripts": {
+    "test": "git checkout main && node jdsl.js"
+  },
+  "author": "Alexander Brevig",
+  "type": "module",
+  "license": "MIT"
+}
