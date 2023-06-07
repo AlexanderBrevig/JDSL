@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=QwUPs5N9I6I
 
 This is supposed to be an entry to [ThePrimeagen/ts-rust-zig-deez](https://github.com/ThePrimeagen/ts-rust-zig-deez).
 
+Jaydeezelified version of https://github.com/ThePrimeagen/ts-rust-zig-deez/tree/master/javascript.
+
 ## Run
 
 ```sh
