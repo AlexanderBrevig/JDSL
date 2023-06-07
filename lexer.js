@@ -1,0 +1,16 @@
+export const Lexer_tokens = ({
+  ILLEGAL: "ILLEGAL",
+  EOF: "EOF",
+  IDENT: "IDENT",
+  INT: "INT",
+  FUNCTION: "FUNCTION",
+  LET: "LET",
+  EQUAL: "=",
+  PLUS: "+",
+  COMMA: ",",
+  SEMI: ";",
+  LPAREN: "(",
+  RPAREN: ")",
+  LBRACE: "{",
+  RBRACE: "}",
+});
