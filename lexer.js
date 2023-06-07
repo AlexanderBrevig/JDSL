@@ -1,5 +1,7 @@
-export const Lexer_skipWhitespace = () => {
-  while (Lexer_this_ch.value === " " || Lexer_this_ch.value === "\t" || Lexer_this_ch.value === "\n" || Lexer_this_ch.value === "\r") {
+export const Lexer_readIdent = () => {
+  const pos = Lexer_this_position.value;
+  while (Lexer_isAlpha()) {
     Lexer_readChar();
   }
+  return Lexer_this_input.value.slice(pos, Lexer_this_position.value);
 };
