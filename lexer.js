@@ -1,1 +1,1 @@
-export let Lexer_this_ch = { value: ' ' };
+export let Lexer_this_position = { value: 0 };
