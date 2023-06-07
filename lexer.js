@@ -1,1 +1,1 @@
-export var Lexer_this_input = { value: "" };
+export let Lexer_this_ch = { value: ' ' };
