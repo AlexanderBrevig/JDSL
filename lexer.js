@@ -5,7 +5,7 @@ export const Lexer_nextToken = () => {
 
   if (token === null) {
     if (Lexer_isAlpha()) {
-      Lexer_lookupIdent_ident = Lexer_readIdent();
+      Lexer_lookupIdent_ident.value = Lexer_readIdent();
       token = Lexer_lookupIdent();
       return token;
     }
