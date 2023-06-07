@@ -1,3 +1,4 @@
+import assert from "assert";
 export const test = () => {
   Lexer_this_input.value = "=+(){},;";
   Lexer_constructor();
